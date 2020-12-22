@@ -1,0 +1,11 @@
+x = input ("İlk değeri giriniz:")
+y = input ("İkinci değeri giriniz:")
+z = input ("Üçüncü değeri giriniz:")
+k = input ("Dördüncü değeri giriniz:")
+p = input ("Beşinci değeri giriniz:")
+
+print(f'İlk değeriniz: {x}')
+print(f'İkinci değeriniz: {y}')
+print(f'Üçüncü değeriniz: {z}')
+print(f'Dördüncü değeriniz: {k}')
+print(f'Beşinci değeriniz: {p}')
